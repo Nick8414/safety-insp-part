@@ -1,0 +1,5 @@
+{
+    "serverURL":"http://192.168.103.169:8050",
+    "port" : 8050,
+    "dbURI": "mongodb://192.168.104.35/SafetySystem"
+}
